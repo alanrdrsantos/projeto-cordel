@@ -1,4 +1,4 @@
-# projeto-cordel
+# Projeto Cordel
 Projeto Cordel criado no capítulo 20 do Curso de HTML e CSS
 
 Site criado para demostrar o uso das propriedades background-image, background-position,background-size e background-attachment
